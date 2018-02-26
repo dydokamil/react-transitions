@@ -7,4 +7,4 @@ https://site-transition.herokuapp.com
     git clone https://github.com/dydokamil/react-transitions.git
     cd react-transitions
     yarn install
-    yarn add
+    yarn start
